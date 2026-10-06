@@ -16,3 +16,5 @@ https://polyhaven.com/a/vintage_lighter
 https://polyhaven.com/a/jug_01
 https://polyhaven.com/a/hanging_picture_frame_02
 https://polyhaven.com/a/hanging_picture_frame_03
+https://polyhaven.com/a/chinese_cabinet
+https://polyhaven.com/a/ornate_mirror_01
