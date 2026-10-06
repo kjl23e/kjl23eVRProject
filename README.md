@@ -14,3 +14,5 @@ https://polyhaven.com/a/cigarette_pack
 https://polyhaven.com/a/chess_set
 https://polyhaven.com/a/vintage_lighter
 https://polyhaven.com/a/jug_01
+https://polyhaven.com/a/hanging_picture_frame_02
+https://polyhaven.com/a/hanging_picture_frame_03
