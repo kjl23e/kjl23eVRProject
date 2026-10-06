@@ -12,3 +12,5 @@ https://polyhaven.com/a/chinese_tea_table
 https://polyhaven.com/a/Sofa_01
 https://polyhaven.com/a/cigarette_pack
 https://polyhaven.com/a/chess_set
+https://polyhaven.com/a/vintage_lighter
+https://polyhaven.com/a/jug_01
