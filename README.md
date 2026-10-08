@@ -18,3 +18,4 @@ https://polyhaven.com/a/hanging_picture_frame_02
 https://polyhaven.com/a/hanging_picture_frame_03
 https://polyhaven.com/a/chinese_cabinet
 https://polyhaven.com/a/ornate_mirror_01
+https://polyhaven.com/a/pocket_watch
