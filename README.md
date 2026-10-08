@@ -26,3 +26,5 @@ https://polyhaven.com/a/fishermans_hat
 https://polyhaven.com/a/vintage_grandfather_clock_01
 https://polyhaven.com/a/long_life_food
 https://polyhaven.com/a/wine_bottles_01
+https://polyhaven.com/a/wooden_bowl_02
+https://polyhaven.com/a/food_pears_asian_01
