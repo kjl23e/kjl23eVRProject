@@ -23,3 +23,6 @@ https://polyhaven.com/a/WoodenTable_02
 https://polyhaven.com/a/alarm_clock_01
 https://polyhaven.com/a/rubber_boots
 https://polyhaven.com/a/fishermans_hat
+https://polyhaven.com/a/vintage_grandfather_clock_01
+https://polyhaven.com/a/long_life_food
+https://polyhaven.com/a/wine_bottles_01
