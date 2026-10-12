@@ -1,3 +1,12 @@
+# Description
+This project displays a room in virtual reality.
+<img width="1416" height="765" alt="1" src="https://github.com/user-attachments/assets/37fc8d0a-6301-4fd7-a7f3-9f9b47f9fe8a" />
+<img width="848" height="768" alt="2" src="https://github.com/user-attachments/assets/99f3e486-3b3a-451f-a3e1-2fa84387fa26" />
+<img width="851" height="762" alt="3" src="https://github.com/user-attachments/assets/c3adea03-e763-4a3c-a93a-ada7efc6eee0" />
+<img width="852" height="781" alt="4" src="https://github.com/user-attachments/assets/16673c67-db10-4a7c-b21b-c886ed3fb0f1" />
+<img width="840" height="749" alt="5" src="https://github.com/user-attachments/assets/c22c34ad-0ab2-4872-90bd-48ae95857923" />
+
+
 # Textures
 https://polyhaven.com/a/white_stucco
 https://polyhaven.com/a/tatami_mat
@@ -53,3 +62,7 @@ https://polyhaven.com/a/cardboard_box_01
 https://polyhaven.com/a/wicker_basket_02
 https://polyhaven.com/a/watering_can_metal_01
 https://polyhaven.com/a/football
+https://polyhaven.com/a/compost_bags
+https://polyhaven.com/a/vintage_oil_lamp
+https://polyhaven.com/a/postcard_set_01
+https://polyhaven.com/a/potted_plant_01
