@@ -32,3 +32,12 @@ https://polyhaven.com/a/potted_plant_02
 https://polyhaven.com/a/decorative_book_set_01
 https://polyhaven.com/a/fish_knife
 https://polyhaven.com/a/ship_pinnace
+https://polyhaven.com/a/wooden_crate_01
+https://polyhaven.com/a/Camera_01
+https://polyhaven.com/a/vintage_suitcase
+https://polyhaven.com/a/vintage_wooden_drawer_01
+https://polyhaven.com/a/Ukulele_01
+https://polyhaven.com/a/wooden_hammer_01
+https://polyhaven.com/a/screwdriver
+https://polyhaven.com/a/pliers
+https://polyhaven.com/a/plastic_container
