@@ -41,3 +41,6 @@ https://polyhaven.com/a/wooden_hammer_01
 https://polyhaven.com/a/screwdriver
 https://polyhaven.com/a/pliers
 https://polyhaven.com/a/plastic_container
+https://polyhaven.com/a/throw_pillows_01
+https://polyhaven.com/a/planter_pot_clay
+https://polyhaven.com/a/horse_statue_01
