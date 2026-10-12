@@ -30,3 +30,5 @@ https://polyhaven.com/a/wooden_bowl_02
 https://polyhaven.com/a/food_pears_asian_01
 https://polyhaven.com/a/potted_plant_02
 https://polyhaven.com/a/decorative_book_set_01
+https://polyhaven.com/a/fish_knife
+https://polyhaven.com/a/ship_pinnace
