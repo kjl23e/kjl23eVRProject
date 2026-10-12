@@ -44,3 +44,9 @@ https://polyhaven.com/a/plastic_container
 https://polyhaven.com/a/throw_pillows_01
 https://polyhaven.com/a/planter_pot_clay
 https://polyhaven.com/a/horse_statue_01
+https://polyhaven.com/a/standing_picture_frame_01
+https://polyhaven.com/a/boombox
+https://polyhaven.com/a/pastic_torch_6v
+https://polyhaven.com/a/metal_tool_chest
+https://polyhaven.com/a/painted_wooden_cabinet
+https://polyhaven.com/a/cardboard_box_01
