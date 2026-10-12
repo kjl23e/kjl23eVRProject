@@ -50,3 +50,6 @@ https://polyhaven.com/a/pastic_torch_6v
 https://polyhaven.com/a/metal_tool_chest
 https://polyhaven.com/a/painted_wooden_cabinet
 https://polyhaven.com/a/cardboard_box_01
+https://polyhaven.com/a/wicker_basket_02
+https://polyhaven.com/a/watering_can_metal_01
+https://polyhaven.com/a/football
