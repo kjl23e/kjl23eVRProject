@@ -66,3 +66,6 @@ https://polyhaven.com/a/compost_bags
 https://polyhaven.com/a/vintage_oil_lamp
 https://polyhaven.com/a/postcard_set_01
 https://polyhaven.com/a/potted_plant_01
+https://polyhaven.com/a/Drill_01
+https://polyhaven.com/a/handsaw_wood
+https://polyhaven.com/a/standing_chalkboard_01
